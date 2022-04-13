@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Cleyton Marcos Siqueira Moreira**!
+## 👋 Hi, I’m Cleyton Marcos Siqueira Moreira!
 
 # About me
 * 🎓 Graduated in electrical engineering with specialization in electric projects
