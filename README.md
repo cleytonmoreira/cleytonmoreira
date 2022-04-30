@@ -5,7 +5,7 @@
 * 🎓 Computer Engineering graduate student
 * 📚 Course student:
 1. _Developer WEB_
-2. _VHDL programmer_
+
 
 ### Meet me
 
