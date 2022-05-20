@@ -22,7 +22,6 @@ Below are some of the technologies that already take away the opportunity to hav
   <img height="25" src="https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=white"/>
   <img height="25" src="![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)"/>
   <img height="25" src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  <img height="25" src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
   <img height="25" src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=Java&logoColor=red"/>
    <img height="25" src="https://img.shields.io/badge/-c++-00599C?logo=c++&logoColor=white&style=for-the-badge"/>
   <img height="25" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
